@@ -22,7 +22,7 @@ Este proyecto es una versión moderna y didáctica del clásico Space Invaders, 
 - No requiere instalación de librerías externas (todo incluido en el repo)
 
 ## Créditos
-- Programación: [Tu nombre o nick]
+- Programación: Jorge Vallejo
 - Sonidos: [Indica fuente si usas sonidos externos]
 - Basado en el clásico Space Invaders
 
