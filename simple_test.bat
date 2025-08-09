@@ -1,0 +1,6 @@
+@echo off
+echo Compilando test simple...
+g++ SimpleTest.cpp -o SimpleTest.exe -Ilibs\SDL3-3.2.18\x86_64-w64-mingw32\include -Ilibs\SDL3-3.2.18\x86_64-w64-mingw32\include\SDL3 -Llibs\SDL3-3.2.18\x86_64-w64-mingw32\lib -lSDL3
+echo Ejecutando SimpleTest.exe...
+SimpleTest.exe
+pause
